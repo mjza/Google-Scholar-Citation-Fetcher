@@ -1,0 +1,3 @@
+selenium
+bibtexparser
+python-dotenv
